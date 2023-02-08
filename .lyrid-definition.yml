@@ -1,4 +1,4 @@
-name: nodejs16_sample
+name: nodejs16-sample-test
 description: App Description
 ignoreFiles: .git node_modules
 modules:
